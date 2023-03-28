@@ -86,6 +86,7 @@ body{
 
 .highlight{
     color: white;
+    font-weight: bold;
     border-radius: 0.7rem;
     padding: 0.4rem;
 }
@@ -111,5 +112,5 @@ body{
 }
 
 .bg-lime{
-    background-color: rgb(168, 250, 135);
+    background-color: rgb(110, 240, 59);
 }
