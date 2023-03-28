@@ -1,8 +1,22 @@
 *{
-    margin: 0px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 header{
-    background-color: rgb(133, 133, 133);
-    height: 100px;
+    height: 120px;
+    padding: 1rem;
+}
+
+img{
+    height: 80px;
+}
+
+#title{
+    color: rgb(13, 26, 50);
+    font-size: 50px;
+    display: inline-block;
+    text-align: center;
 }
