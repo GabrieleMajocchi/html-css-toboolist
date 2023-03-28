@@ -8,6 +8,7 @@
 header{
     height: 120px;
     padding: 1rem;
+    background-color: white;
 }
 
 img{
@@ -19,4 +20,8 @@ img{
     font-size: 50px;
     display: inline-block;
     text-align: center;
+}
+
+body{
+    background-color: rgb(233, 233, 233);
 }
