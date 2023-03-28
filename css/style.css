@@ -114,3 +114,7 @@ body{
 .bg-lime{
     background-color: rgb(110, 240, 59);
 }
+
+h2{
+    padding-top: 2rem;
+}
