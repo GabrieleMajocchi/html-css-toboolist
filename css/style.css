@@ -33,3 +33,25 @@ body{
     margin-top: 2rem;
     padding: 1rem 0rem 0.7rem 3.5rem
 }
+
+.fancy{
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.full{
+    background-color: deepskyblue;
+    border: 2px solid deepskyblue;
+    color: white;
+}
+
+.empty{
+    background-color: white;
+    color: rgb(180, 180, 180);
+    border: 2px solid #e7e7e7
+}
