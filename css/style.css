@@ -65,7 +65,7 @@ body{
     margin: auto;
     margin-top: 0.2rem;
     padding-left: 3.5rem;
-    padding-bottom: 20rem;
+    min-height: 100vh;
     line-height: 2.3;
 }
 
