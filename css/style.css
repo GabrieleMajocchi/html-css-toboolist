@@ -83,3 +83,32 @@ body{
     color: red;
 }
 
+.highlight{
+    color: white;
+    border-radius: 0.7rem;
+    padding: 0.4rem;
+}
+
+.bg-lighblue{
+    background-color: lightskyblue;
+}
+
+.bg-purple{
+    background-color: rgb(208, 135, 250);
+}
+
+.bg-green{
+    background-color: rgb(122, 219, 92);
+}
+
+.bg-orange{
+    background-color: rgb(250, 171, 135);
+}
+
+.bg-pink{
+    background-color: rgb(246, 135, 250);
+}
+
+.bg-lime{
+    background-color: rgb(168, 250, 135);
+}
