@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    height: 120px;
+    padding: 1rem;
+    background-color: white;
+}
+
+img{
+    height: 80px;
+    vertical-align: middle;
+}
+
+#title{
+    color: rgb(13, 26, 50);
+    font-size: 50px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle
+}
+
+body{
+    background-color: rgb(247, 247, 247);
+}
+
+.buttons{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 1rem 0rem 0.7rem 3.5rem
+}
+
+.fancy{
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.full{
+    background-color: deepskyblue;
+    border: 2px solid deepskyblue;
+    color: white;
+}
+
+.empty{
+    background-color: white;
+    color: rgb(180, 180, 180);
+    border: 2px solid #e7e7e7
+}
+
+.tasks{
+    background-color: white;
+    color: rgb(46, 46, 46);
+    width: 80%;
+    margin: auto;
+    margin-top: 0.2rem;
+    padding-left: 3.5rem;
+    padding-bottom: 20rem;
+    line-height: 2.3;
+}
+
+.inline{
+    display: inline;
+}
+.round{
+    margin-left: 1rem;
+    border-style: solid;
+    border-radius: 50%;
+    padding: 1px 3px;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.highlight{
+    color: white;
+    font-weight: bold;
+    border-radius: 0.7rem;
+    padding: 0.4rem;
+}
+
+.bg-lighblue{
+    background-color: lightskyblue;
+}
+
+.bg-purple{
+    background-color: rgb(208, 135, 250);
+}
+
+.bg-green{
+    background-color: rgb(122, 219, 92);
+}
+
+.bg-orange{
+    background-color: rgb(250, 171, 135);
+}
+
+.bg-pink{
+    background-color: rgb(246, 135, 250);
+}
+
+.bg-lime{
+    background-color: rgb(110, 240, 59);
+}
+
+h2{
+    display: inline;
+}
+
+details{
+    padding-top: 2rem;
+}
